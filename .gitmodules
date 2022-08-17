@@ -1,0 +1,6 @@
+[submodule "jenkins-codeql"]
+	path = jenkins-codeql
+	url = https://github.com/jenkins-infra/jenkins-codeql
+[submodule "jenkins"]
+	path = jenkins
+	url = https://github.com/jenkinsci/jenkins
